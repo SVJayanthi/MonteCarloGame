@@ -11,7 +11,7 @@ This repository contains the code utilized on the Eclipse platform to create the
 ## Monte Carlo
 This is a Java program with a decision-making computer player that utilizes Monte Carlo simulation methods to predict and execute moves in Tic-tac-toe. This program allows for a user to play against the simulation iteration of the computer. It has both a graphical user interface.
 
-### Chinese Checkers GUI
+### Game GUI
 To run the program, open the GUI file from `MonteCarloGame\src\Gaming\GUI.java` in a Java IDE and run the interface to play the Chinese Checkers game.
 
 ## License
