@@ -1,11 +1,12 @@
 # MonteCarloGame
 This repository contains the code utilized on the Eclipse platform to create the a computer board game player that plays Tic-tac-toe and Connect 4.
 
-![ttt.png](https://github.com/SVJayanthi/MonteCarloGame/blob/master/GUI/TTT.PNG)
-![c4.png](https://github.com/SVJayanthi/MonteCarloGame/blob/master/GUI/Connect4.PNG)
+![c4.png](https://github.com/SVJayanthi/MonteCarloGame/blob/master/GUI/Connect4.png)
 
 Monte Carlo
 This is a Java program with a decision-making computer player that utilizes Monte Carlo simulation methods to predict and execute moves in Tic-tac-toe. This program allows for a user to play against the simulation iteration of the computer. It has both a graphical user interface.
+
+![ttt.png](https://github.com/SVJayanthi/MonteCarloGame/blob/master/GUI/TTT.PNG)
 
 Chinese Checkers GUI
 To run the program, open the GUI file in a Java IDE and run the interface to play the Chinese Checkers game.
